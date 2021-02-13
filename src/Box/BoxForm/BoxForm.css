@@ -1,0 +1,21 @@
+.form-style{
+  margin-left: 2em;
+}
+
+label,input{
+  margin-left: 2rem;
+}
+
+.form-button{
+  height: 30px;
+  width: 80px;
+  background-color: #FF5733;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  box-shadow: 2px #FF5733;
+  border-radius: 5px;
+  outline: none;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
